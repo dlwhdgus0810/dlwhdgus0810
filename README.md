@@ -5,7 +5,7 @@
 I am majoring in **Computer Science** and primarily focusing on **Backend Development**. I am passionate about exploring various web technologies and creating efficient and user-friendly web applications.
 
 ### 🌐 Portfolio
-- [Check out my portfolio here!]([https://www.notion.so/your-portfolio-link](https://equal-prepared-00c.notion.site/Junior-Developer-Jonghyun-Lee-9f280ec7713b45b68dd5077519aebb29)) 
+- [Check out my portfolio here!](https://equal-prepared-00c.notion.site/Junior-Developer-Jonghyun-Lee-9f280ec7713b45b68dd5077519aebb29)](https://equal-prepared-00c.notion.site/Junior-Developer-Jonghyun-Lee-9f280ec7713b45b68dd5077519aebb29)) 
 
 ### 🛠 Tech Stack
 - **Backend**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
