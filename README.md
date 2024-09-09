@@ -1,4 +1,5 @@
 ## Hi there 👋
+Portfolio: https://equal-prepared-00c.notion.site/Junior-Developer-Jonghyun-Lee-9f280ec7713b45b68dd5077519aebb29
 
 <!--
 **dlwhdgus0810/dlwhdgus0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
