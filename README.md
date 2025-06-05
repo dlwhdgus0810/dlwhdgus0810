@@ -13,9 +13,6 @@ I am majoring in **Computer Science** and primarily focusing on **Backend Develo
 - **Cloud Services**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 - **DevOps & Deployment**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-### 🌱 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwhdgus0810&show_icons=true&theme=dracula)
-
 ### 🌱 Currently Learning
 - Performance optimization techniques
 - Latest Backend trends and technologies
@@ -24,3 +21,6 @@ I am majoring in **Computer Science** and primarily focusing on **Backend Develo
 
 ### 📫 Contact
 - Email: [hyunlee.289@gmail.com](hyunlee.289@gmail.com)
+
+### 📈 Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwhdgus0810&show_icons=true&theme=dracula)
