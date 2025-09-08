@@ -5,8 +5,7 @@
 I am majoring in **Computer Science** and primarily focusing on **Backend Development**. I am passionate about exploring various web technologies and creating efficient and user-friendly web applications.
 
 ### 🌐 Portfolio
-- [Check out my portfolio here!](https://equal-prepared-00c.notion.site/Junior-Developer-Jonghyun-Lee-9f280ec7713b45b68dd5077519aebb29](https://portfolio-website-psi-teal-99.vercel.app/)
-
+- [Check out my portfolio here!](https://portfolio-website-psi-teal-99.vercel.app/)
 ### 🛠 Tech Stack
 - **Backend**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 - **Database**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) 
