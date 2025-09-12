@@ -20,6 +20,3 @@ I am majoring in **Computer Science** and primarily focusing on **Backend Develo
 
 ### 📫 Contact
 - Email: [hyunlee.289@gmail.com](hyunlee.289@gmail.com)
-
-### 📈 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwhdgus0810&show_icons=true&theme=dracula)
