@@ -41,6 +41,6 @@
 
 ---
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i>
+  <i>"Do not go gentle into that good night."</i>
 </p>
 
