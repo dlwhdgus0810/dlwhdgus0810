@@ -1,7 +1,3 @@
-# Hyun Lee
-
-### 👨‍💻 Profile
-
 <pre>
 <b>@Component</b>
 <b>class</b> <b>HyunLee</b> : <b>BackendDeveloper</b> {
