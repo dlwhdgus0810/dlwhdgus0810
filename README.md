@@ -10,7 +10,7 @@
     )
 
     <b>val</b> contact = <b>listOf</b>(
-        <a href="mailto:hyunlee.289@gmail.com" style="text-decoration: none;"><span style="color: #6a8759">"hyunlee.289@gmail.com"</span></a>,
+        <span style="color: #6a8759">"hyunlee.289@gmail.com"</span>,
         <a href="https://github.com/dlwhdgus0810" target="_blank"><b>GitHub</b></a>,
         <a href="https://www.linkedin.com/in/jleee/" target="_blank"><b>LinkedIn</b></a>
     )
@@ -38,7 +38,6 @@
     )
 }
 </pre>
-
 ---
 <p align="center">
   <i>"Do not go gentle into that good night."</i>
