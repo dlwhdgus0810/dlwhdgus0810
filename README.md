@@ -1,4 +1,4 @@
-# GitHub Profile — Hyun Lee
+# Hyun Lee
 
 ### 🏗️ Architecture
 ```text
