@@ -6,7 +6,7 @@
         <span style="color: #6a8759">"name"</span>      <b>to</b> <span style="color: #6a8759">"Hyun Lee"</span>,
         <span style="color: #6a8759">"education"</span> <b>to</b> <span style="color: #6a8759">"University of Virginia (CS)"</span>,
         <span style="color: #6a8759">"focus"</span>     <b>to</b> <span style="color: #6a8759">"Scalable Backend Systems"</span>,
-        <span style="color: #6a8759">"portfolio"</span> <b>to</b> <a href="https://hyunlee.me" target="_blank" style="text-decoration: none;"><span style="color: #6a8759">"https://hyunlee.me"</span></a>
+        <span style="color: #6a8759">"portfolio"</span> <b>to</b> <a href="https://hyunlee.me" target="_blank" style="text-decoration: none;"><span style="color: #6a8759">"hyunlee.me"</span></a>
     )
 
     <b>val</b> contact = <b>listOf</b>(
