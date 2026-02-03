@@ -30,11 +30,11 @@ profile:
 info:
   app:
     name: hyunlee-profile-service
-    version: 1.0.0
+    version: 2.3.2
     description: "Personal profile as code"
   contact:
     email: hyunlee.289@gmail.com
-    github: github.com/hyunlee
+    github: github.com/dlwhdgus0810
     linkedin: linkedin.com/in/jleee
 ```
 ## 📦 Infrastructure Layer: Tech Stack & Config
