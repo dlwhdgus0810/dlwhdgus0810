@@ -16,7 +16,7 @@
     <b>val</b> contact = <b>listOf</b>(
         <span style="color: #6a8759">"hyunlee.289@gmail.com"</span>,
         <a href="https://github.com/dlwhdgus0810"><b>GitHub</b></a>,
-        <a href="https://www.linkedin.com/in/jleee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="18" style="vertical-align: middle;"></a>
+        <a href="https://www.linkedin.com/in/jleee/"><b>LinkedIn</b></a>
     )
 
     <b>val</b> techStack = <b>mapOf</b>(
